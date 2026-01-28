@@ -439,7 +439,7 @@ export default function RegisterForm() {
 
                 {/* Submit */}
                 <Button type="submit" className="w-full bg-blue-600 hover:bg-blue-700" disabled={submitted || !proofUrl || loadingUpload}>
-                  {submitted ? "Submitting..." : "Join Alumni Network"}
+                  {submitted ? "Submitting..." : "Verify your mail and Join Alumni Network"}
                 </Button>
               </form>
             </Form>
