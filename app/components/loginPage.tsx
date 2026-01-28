@@ -179,7 +179,7 @@ export default function LoginForm() {
                     <FormItem>
                       <FormLabel>Password *</FormLabel>
                       <FormControl>
-                        <Input type="password" placeholder="Enter your password" {...field} />
+                        <Input type="password" placeholder="Enter your alumni password" {...field} />
                       </FormControl>
                       <FormMessage />
                     </FormItem>
