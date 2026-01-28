@@ -177,7 +177,7 @@ export default function LoginForm() {
                   name="password"
                   render={({ field }) => (
                     <FormItem>
-                      <FormLabel>Password *</FormLabel>
+                      <FormLabel>Alumni Password *</FormLabel>
                       <FormControl>
                         <Input type="password" placeholder="Enter your alumni password" {...field} />
                       </FormControl>
